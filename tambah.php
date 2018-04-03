@@ -27,5 +27,9 @@
 
 </tr>
 </table>
-<a href="index.php">kembali</a>
 </form>
+<form class="" action="index.php" method="get">
+	<input type="submit" value="Batal">
+
+</form>
+
