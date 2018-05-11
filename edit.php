@@ -49,6 +49,7 @@ if($data->num_rows <=0){
 </tr>
 <tr>
 	<td><input type="submit" value="Simpan"></td>
+<<<<<<< HEAD
 
 
 </tr>
@@ -58,4 +59,13 @@ if($data->num_rows <=0){
 <form class="" action="index.php" method="get">
 	<input type="submit" value="Batal">
 
+=======
+</tr>
+</table>
+>>>>>>> b2e4f18b431625ac7ad04beb2d0d71b0169181ee
 </form>
+<form class="" action="index.php" method="get">
+	<input type="submit" value="Batal">
+
+</form>
+
