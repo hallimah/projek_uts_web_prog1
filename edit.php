@@ -49,9 +49,13 @@ if($data->num_rows <=0){
 </tr>
 <tr>
 	<td><input type="submit" value="Simpan"></td>
-	<td><input type="submit" value="Batal" ></td>
+
 
 </tr>
 </table>
-	<a href="index.php">Kembali</a>
+</form>
+<td></td>
+<form class="" action="index.php" method="get">
+	<input type="submit" value="Batal">
+
 </form>

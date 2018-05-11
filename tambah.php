@@ -22,10 +22,11 @@
 </tr>
 <tr>
     <td><input type="submit" value="Simpan"></td>
-    <td> <input type="button" value="Batal"> </td>
-
-
+    
 </tr>
 </table>
-<a href="index.php">kembali</a>
+</form>
+<form class="" action="index.php" method="get">
+	<input type="submit" value="Batal">
+
 </form>
