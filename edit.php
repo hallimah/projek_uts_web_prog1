@@ -61,8 +61,4 @@ if($data->num_rows <=0){
 </table>
 </form>
 
-<form class="" action="index.php" method="get">
-	<input type="submit" value="Batal">
-
-</form>
 
