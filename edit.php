@@ -57,7 +57,6 @@ if($data->num_rows <=0){
 <form class="" action="index.php" method="get">
 	<input type="submit" value="Batal">
 
-=======
 </tr>
 </table>
 </form>
