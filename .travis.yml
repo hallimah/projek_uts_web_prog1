@@ -6,7 +6,7 @@ php:
 env: 
   global:
     - 'FTP_USER=hallimah'
-    - 'FTP_PASS=admin123'
+    - 'FTP_PASS=hallimah'
 
 script:
   - "curl -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com -Q 'mkd public_html/praktek-4d'"
