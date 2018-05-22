@@ -1,4 +1,4 @@
-<h2>Fomrmulir Ubah Data Mahasiswa</h2>
+<h2>Formulir Ubah Data Mahasiswa</h2>
 <hr>
 <form action="update.php" method="POST">
 
@@ -49,8 +49,6 @@ if($data->num_rows <=0){
 </tr>
 <tr>
 	<td><input type="submit" value="Simpan"></td>
-<<<<<<< HEAD
-
 
 </tr>
 </table>
@@ -62,8 +60,8 @@ if($data->num_rows <=0){
 =======
 </tr>
 </table>
->>>>>>> b2e4f18b431625ac7ad04beb2d0d71b0169181ee
 </form>
+
 <form class="" action="index.php" method="get">
 	<input type="submit" value="Batal">
 
