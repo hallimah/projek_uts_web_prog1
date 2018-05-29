@@ -21,6 +21,7 @@
     <td><input type ="text" name="jurusan"></td>
 </tr>
 <tr>
+<br>
     <td><input type="submit" value="Simpan"></td>
     
 </tr>
@@ -31,8 +32,5 @@
 	<input type="submit" value="Batal">
 
 </form>
-<form class="" action="index.php" method="get">
-	<input type="submit" value="Batal">
 
-</form>
 
