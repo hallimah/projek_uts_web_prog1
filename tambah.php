@@ -25,13 +25,11 @@
     
 </tr>
 </table>
-<<<<<<< HEAD
+
 </form>
 <form class="" action="index.php" method="get">
 	<input type="submit" value="Batal">
 
-=======
->>>>>>> b2e4f18b431625ac7ad04beb2d0d71b0169181ee
 </form>
 <form class="" action="index.php" method="get">
 	<input type="submit" value="Batal">
